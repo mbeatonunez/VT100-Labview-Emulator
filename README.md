@@ -10,5 +10,7 @@ the "Clear Screen" command (which I ignore), the "Cursor Position" command (used
 "Reserve Video" command, (used to highlight section headers).
 
 The two Escape Code commands used to build the tables are:
+
 The Cursor position code - Esc\[Line;ColumnH
+
 The Reverse Video code   -  Esc\[7m <highlight string> Esc\[m

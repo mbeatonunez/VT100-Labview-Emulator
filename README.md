@@ -13,4 +13,4 @@ The two Escape Code commands used to build the tables are:
 
 The Cursor position code - Esc\[Line;ColumnH
 
-The Reverse Video code   -  Esc\[7m <highlight string> Esc\[m
+The Reverse Video code   -  Esc\[7m \<highlight string\> Esc\[m
